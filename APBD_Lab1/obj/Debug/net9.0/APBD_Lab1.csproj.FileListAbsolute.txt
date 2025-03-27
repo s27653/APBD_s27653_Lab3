@@ -1,0 +1,15 @@
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\bin\Debug\net9.0\APBD_Lab1.exe
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\bin\Debug\net9.0\APBD_Lab1.deps.json
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\bin\Debug\net9.0\APBD_Lab1.runtimeconfig.json
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\bin\Debug\net9.0\APBD_Lab1.dll
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\bin\Debug\net9.0\APBD_Lab1.pdb
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.AssemblyInfoInputs.cache
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.AssemblyInfo.cs
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.dll
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\refint\APBD_Lab1.dll
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.pdb
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.genruntimeconfig.cache
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\ref\APBD_Lab1.dll
+C:\Users\Piotr\RiderProjects\APBD_Lab1\APBD_Lab1\obj\Debug\net9.0\APBD_Lab1.sourcelink.json
